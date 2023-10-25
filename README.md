@@ -1,15 +1,16 @@
 <h1 align="left">Hello There!</h1>
+
 <p align="left">My name is Herbert!<br>I was born in Brazil 🇧🇷 and Currently living in Berlin.  🇩🇪</p>
 <p align="left">Engineer Manager with nearly 15 years of experience in tech, driven by the rewarding challenge of helping people and solving complex problems.</p>
 
 <h2 align="left">About me</h2>
-<p align="left">
-  - 💳 I'm currently working as an Engineering Manager at [@sumup](http://sumup.com/careers) <be>
-  - 🌱 I’m currently learning how to Draw, nothing related to tech.    <be>
-  - 📫 How to reach me: https://herberthenrique.com <br>
+
+- 💳 I'm currently working as an Engineering Manager at [@sumup](http://sumup.com/careers) <be>
+- 🌱 I’m currently learning how to Draw, nothing related to tech.    <be>
+- 📫 How to reach me: https://herberthenrique.com <br>
     
-<br>Pronouns: he/him
-</p>
+Pronouns: he/him
+
 
 
 <div align="left">
