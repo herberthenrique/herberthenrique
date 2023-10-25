@@ -6,20 +6,24 @@
 <p align="left">
   - 💳 I'm currently working as an Engineering Manager at [@sumup](http://sumup.com/careers) <be>
   - 🌱 I’m currently learning how to Draw, nothing related to tech.    <be>
-    - 📫 How to reach me: https://herberthenrique.com <br>
+  - 📫 How to reach me: https://herberthenrique.com <br>
     
-    <br>Pronouns: he/him</p>
+<br>Pronouns: he/him
+</p>
 
 
 <div align="left">
+  <a href="https://herberthenrique.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/herberthenrique/herberthenrique/master/src/icons/website_icon.png" width="32" alt="website logo"  />
+  </a>
   <a href="https://linkedin.com/in/herberthenrique" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/herberthenrique/herberthenrique/master/src/icons/linkedin_icon.png" width="32" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/herberth3nrique" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/herberthenrique/herberthenrique/master/src/icons/twitter_icon.png" width="32" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/herberthenriquepinto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/herberthenrique/herberthenrique/master/src/icons/instagram_icon.png" width="32" alt="instagram logo"  />
   </a>
 </div>
 
