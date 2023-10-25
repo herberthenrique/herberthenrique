@@ -1,6 +1,8 @@
 # Hello There!
 
-My name is Herbert!<br>I was born in Brazil 🇧🇷 and Currently living in Berlin.  🇩🇪
+My name is Herbert! I was born in Brazil 🇧🇷 and currently living in Berlin.  🇩🇪
+
+
 Engineer Manager with nearly 15 years of experience in tech, driven by the rewarding challenge of helping people and solving complex problems.
 
 ## About me
